@@ -1,4 +1,4 @@
-# InterviewMaster Content Hub
+# SQL Learning Content Hub
 
 This resource hub provides a centralized directory for all InterviewMaster content pages. The links are organized into sections based on SQL skills and other topics.
 
